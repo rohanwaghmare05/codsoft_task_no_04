@@ -29,5 +29,9 @@ Visualizations:
 
 - The analyses and visualizations provide insights into the model's performance and its ability to predict sales effectively.
 
+Acknowledgments:
+- The dataset used is from Kaggle.
+- Thanks to the open-source community for their contributions and tools.
+
 ## Contributing:
 If you’d like to contribute to this project, please fork the repository and submit a pull request with your improvements or fixes.
